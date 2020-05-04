@@ -16,5 +16,13 @@
             "creator_videos": null,
             "other_videos": 3
         }
+    ],
+    "creators": [
+        {
+            "name":"toto"
+        },
+        {
+            "name":"tata"
+        }
     ]
 }
