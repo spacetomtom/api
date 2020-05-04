@@ -17,12 +17,12 @@
             "other_videos": 3
         }
     ],
-    "creators": [
+    "creators": {'data':[
         {
             "name":"toto"
         },
         {
             "name":"tata"
         }
-    ]
+    ]}
 }
