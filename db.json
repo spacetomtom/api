@@ -19,10 +19,10 @@
     ],
     "creators": [
         {
-            "name":"toto"
+            "name":"toto","label":"totolabel","id":1
         },
         {
-            "name":"tata"
+            "name":"tata","label":"tatalabel","id":2
         }
     ]
 }
